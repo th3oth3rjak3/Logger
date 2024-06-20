@@ -1,0 +1,14 @@
+
+Todo:
+  Unit Tests:
+    ☐ Test that the timestamp is used when the option is provided.
+    ☐ Test that the log level is shown when the option is provided.
+    ☐ Test the Debug method.
+    ☐ Test the Info method.
+    ☐ Test the Error method.
+    ☐ Test the DisplayName method for valid log levels.
+    ☐ Test the DisplayName method for log levels with an invalid log level.
+    ☐ Test logging to another output like a file (this could be manual).
+  Enhancements:
+    ☐ Add a feature to register multiple logging outputs.
+    ☐ Add a feature to register multiple logging outputs with different log levels. (e.g. debug to console but info to file)
